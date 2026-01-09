@@ -3,8 +3,10 @@ layout: page
 title: Trasparenza bancaria
 description:
 lang: it
-ref: prestatori-servizi-di-pagamento
-order: 1
+ref: prestatori-servizi-di-pagamento-trasparenza-bancaria
+order: 52
+child_of_ref: prestatori-servizi-di-pagamento
+child_of_submenu: pagoPA
 ---
 
 ## American Express Payments Europe S.L. - Succursale per l'Italia
