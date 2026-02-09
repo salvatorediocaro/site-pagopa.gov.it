@@ -1,0 +1,32 @@
+it:
+  - cat: "dora|DORA"
+    title: "PagoPA S.p.A. può essere individuata quale fornitore TIC ai sensi del Regolamento DORA?"
+    body: >
+      Sì. PagoPA S.p.A. opera come fornitore di servizi TIC dei PSP,
+      ma non svolge attività a supporto di funzioni essenziali o importanti
+      (non si applica, dunque, l’art. 30, par. 3 e ogni altra previsione
+      specificamente rivolta ai servizi TIC a supporto di funzioni essenziali
+      o importanti del Regolamento DORA).
+
+  - cat: "dora|DORA"
+    title: "Cosa bisogna fare per formalizzare il rapporto con PagoPA S.p.A. ai sensi del Regolamento DORA?"
+    body: >
+      I PSP che definiscono PagoPA S.p.A. come fornitore TIC, per i servizi
+      effettivamente offerti dalla stessa, possono avvalersi del format di
+      Addendum contrattuale disponibile sull’Area Riservata della Società.
+
+  - cat: "dora|DORA"
+    title: "Dove posso trovare la documentazione che chiarisce il ruolo di PagoPA S.p.A. ai sensi delle previsioni del Regolamento DORA?"
+    body: >
+      Le informazioni e le FAQ contenute in questa sezione sono pubbliche,
+      mentre l’Addendum contrattuale DORA e i documenti dettagliati sono
+      disponibili, all’interno di Area Riservata, solo per i PSP che
+      identificano PagoPA S.p.A. quale proprio fornitore TIC.
+
+  - cat: "dora|DORA"
+    title: "Come è possibile ottenere informazioni per la compilazione del registro delle informazioni sui fornitori TIC, in conformità all’articolo 28, par. 3, del Regolamento DORA?"
+    body: >
+      Se il PSP ha bisogno di includere PagoPA S.p.A. nel proprio registro
+      fornitori TIC, può richiedere le informazioni scrivendo all’indirizzo
+      PEC istituzionale:
+      <a href="mailto:pagopaspa@pec.pagopa.it">pagopaspa@pec.pagopa.it</a>

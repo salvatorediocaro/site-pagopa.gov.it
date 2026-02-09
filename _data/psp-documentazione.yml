@@ -35,3 +35,8 @@
     -
       label: Regolamento
       url: "https://www.pagopa.gov.it/assets/download/pagoPA-regolamento-marchio.pdf"
+- title: DORA - Digital Operational Resilience Act
+  docs:
+    - 
+      label: DORA Statement
+      url: '/it/prestatori-servizi-di-pagamento/regolamento-dora/'
